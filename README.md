@@ -1,5 +1,5 @@
 # S.O. Crawler
-A toy web crawler written just for fun. The idea is to see the users and number of accepted answers they got between the most voted ones for a given tag.
+A toy web crawler written just for fun. The idea is to see the users and number of accepted answers they got between the most voted questions for a given tag.
 
 ## Getting Started
 
