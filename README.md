@@ -11,7 +11,7 @@ A toy web crawler written just for fun. The idea is to see the users and number 
 
         $ cd socrawler
 
-3. Install bundler
+3. Install bundler if you haven't already
 
         $ gem install bundler
 
